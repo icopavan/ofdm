@@ -1,0 +1,6 @@
+.idea
+out
+simulations
+*.iml
+out.res
+out.seq
